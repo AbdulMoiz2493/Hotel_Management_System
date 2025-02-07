@@ -137,7 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact:
 
-- **Name:** Fahad Zafar Mayo  
+- **Name:** Abdul Moiz 
 - **Email:** [abdulmoiz8895@gmail.com](mailto:abdulmoiz8895@gmail.com)  
 - **GitHub:** [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
 
